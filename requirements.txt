@@ -1,0 +1,6 @@
+python
+OpenCV
+face_recognition
+NumPy
+Webcam
+Reference image of the registered person
